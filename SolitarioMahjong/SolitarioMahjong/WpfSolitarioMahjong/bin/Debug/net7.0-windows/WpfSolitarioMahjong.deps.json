@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WpfSolitarioMahjong/1.0.0": {
+        "dependencies": {
+          "SolitarioMahjong": "1.0.0"
+        },
+        "runtime": {
+          "WpfSolitarioMahjong.dll": {}
+        }
+      },
+      "SolitarioMahjong/1.0.0": {
+        "runtime": {
+          "SolitarioMahjong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfSolitarioMahjong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolitarioMahjong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

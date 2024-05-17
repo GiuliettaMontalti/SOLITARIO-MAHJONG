@@ -1,0 +1,186 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="carte\10A.jpg" />
+    <None Remove="carte\10B.jpg" />
+    <None Remove="carte\10C.jpg" />
+    <None Remove="carte\10D.jpg" />
+    <None Remove="carte\1A.jpg" />
+    <None Remove="carte\1B.jpg" />
+    <None Remove="carte\1C.jpg" />
+    <None Remove="carte\1D.jpg" />
+    <None Remove="carte\2A.jpg" />
+    <None Remove="carte\2B.jpg" />
+    <None Remove="carte\2C.jpg" />
+    <None Remove="carte\2D.jpg" />
+    <None Remove="carte\3A.jpg" />
+    <None Remove="carte\3B.jpg" />
+    <None Remove="carte\3C.jpg" />
+    <None Remove="carte\3D.jpg" />
+    <None Remove="carte\4A.jpg" />
+    <None Remove="carte\4B.jpg" />
+    <None Remove="carte\4C.jpg" />
+    <None Remove="carte\4D.jpg" />
+    <None Remove="carte\5A.jpg" />
+    <None Remove="carte\5B.jpg" />
+    <None Remove="carte\5C.jpg" />
+    <None Remove="carte\5D.jpg" />
+    <None Remove="carte\6A.jpg" />
+    <None Remove="carte\6B.jpg" />
+    <None Remove="carte\6C.jpg" />
+    <None Remove="carte\6D.jpg" />
+    <None Remove="carte\7A.jpg" />
+    <None Remove="carte\7B.jpg" />
+    <None Remove="carte\7C.jpg" />
+    <None Remove="carte\7D.jpg" />
+    <None Remove="carte\8A.jpg" />
+    <None Remove="carte\8B.jpg" />
+    <None Remove="carte\8C.jpg" />
+    <None Remove="carte\8D.jpg" />
+    <None Remove="carte\9A.jpg" />
+    <None Remove="carte\9B.jpg" />
+    <None Remove="carte\9C.jpg" />
+    <None Remove="carte\9D.jpg" />
+    <None Remove="carte\RETRO.jpg" />
+    <None Remove="sfondo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="carte\10A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\10B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\10C.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\10D.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\1A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\1B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\1C.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\1D.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\2A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\2B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\2C.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\2D.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\3A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\3B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\3C.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\3D.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\4A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\4B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\4C.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\4D.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\5A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\5B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\5C.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\5D.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\6A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\6B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\6C.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\6D.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\7A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\7B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\7C.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\7D.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\8A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\8B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\8C.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\8D.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\9A.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\9B.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\9C.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\9D.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="carte\RETRO.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sfondo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SolitarioMahjong\SolitarioMahjong.csproj" />
+  </ItemGroup>
+
+</Project>
