@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfSolitarioMahjong.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSolitarioMahjong"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        WindowStyle="ToolWindow"
+        Title="SOLITARIO MAHJONG" Height="450" Width="800" Background="#FF11930B">
+    <Viewbox>
+        <Grid Background="#FF11930B">
+            <Label Content="SOLITARIO MAHJONG" Margin="248,10,248,280" FontSize="28" Background="#00000000" Foreground="#FFDDDDDD" FontWeight="Bold"/>
+            <Label x:Name="lblRegoleGioco" Content="REGOLE DEL GIOCO" HorizontalAlignment="Left" Margin="52,62,0,0" VerticalAlignment="Top" FontSize="20" Width="193" Foreground="#FFDDDDDD" FontWeight="Bold"/>
+            <TextBlock x:Name="txtRegole" HorizontalAlignment="Left" Margin="19,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="257" Width="260" FontSize="16" TextAlignment="Center"  Visibility="Visible" Grid.RowSpan="2" Foreground="#FFDDDDDD"><Run Text="Lo scopo del solitario è rimuovere tutte le carte dal tavolo, togliendo le coppie di carte con lo stesso valore indipende"/><Run Language="it-it" Text="me"/><Run Text="nte dal seme. Solo le carte scoperte che presentano il lato sinistro oppure il lato destro libero sono utilizzabili."/><LineBreak/><Run Text="Una carta ha un lato libero se è collocata sul lato del tavolo oppure se i mazzetti adiacenti sono vuoti o hanno meno carte del mazzetto della carta scelta."/><LineBreak/><Run/></TextBlock>
+            <Label Content="NOME" Margin="0,71,182,0" VerticalAlignment="Top" FontSize="20" HorizontalAlignment="Right" Width="81" Foreground="#FFDDDDDD" FontWeight="Bold"/>
+            <TextBox x:Name="boxNome" Margin="0,72,35,0" TextWrapping="Wrap" Text="Inserire nome" VerticalAlignment="Top" Height="37" FontSize="18" GotFocus="boxNome_GotFocus" LostFocus="boxNome_LostFocus" Grid.RowSpan="2" HorizontalAlignment="Right" Width="147" SelectionOpacity="100" BorderBrush="#FF707070" Foreground="#FF11930B" TextAlignment="Center" Background="#FFDDDDDD"/>
+            <Button x:Name="btnInizio" Content="INIZIA A GIOCARE" HorizontalAlignment="Right" Margin="0,0,35,101" VerticalAlignment="Bottom" Height="67" Width="228" FontSize="20" Click="btnInizio_Click" Foreground="#FF11930B" FontWeight="Bold" Background="#FFDDDDDD"/>
+            <Button x:Name="btnRegole" Content="VISUALIZZA REGOLE" HorizontalAlignment="Left" Margin="19,131,0,0" VerticalAlignment="Top" Height="67" Width="260" FontSize="20" Click="btnRegole_Click" Foreground="#FF11930B" FontWeight="Bold" Background="#FFDDDDDD"/>
+            <TextBlock x:Name="txtErr" HorizontalAlignment="Left" Margin="537,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="228" Height="61" FontSize="16" Foreground="#FFDDDDDD" FontWeight="Bold" TextAlignment="Center"/>
+
+        </Grid>
+    </Viewbox>
+</Window>

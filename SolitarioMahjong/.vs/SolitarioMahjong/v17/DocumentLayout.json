@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EFCBD1-D805-4177-85DE-74FF6F66F379}|WpfSolitarioMahjong\\WpfSolitarioMahjong.csproj|c:\\users\\giulia.montalti\\downloads\\solitario-mahjong\\solitario-mahjong\\solitariomahjong\\solitariomahjong\\wpfsolitariomahjong\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26EFCBD1-D805-4177-85DE-74FF6F66F379}|WpfSolitarioMahjong\\WpfSolitarioMahjong.csproj|solutionrelative:wpfsolitariomahjong\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EFCBD1-D805-4177-85DE-74FF6F66F379}|WpfSolitarioMahjong\\WpfSolitarioMahjong.csproj|c:\\users\\giulia.montalti\\downloads\\solitario-mahjong\\solitario-mahjong\\solitariomahjong\\solitariomahjong\\wpfsolitariomahjong\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26EFCBD1-D805-4177-85DE-74FF6F66F379}|WpfSolitarioMahjong\\WpfSolitarioMahjong.csproj|solutionrelative:wpfsolitariomahjong\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA224DC-17BF-4815-A192-3DE2719F96C0}|SolitarioMahjong\\SolitarioMahjong.csproj|c:\\users\\giulia.montalti\\downloads\\solitario-mahjong\\solitario-mahjong\\solitariomahjong\\solitariomahjong\\solitariomahjong\\partita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA224DC-17BF-4815-A192-3DE2719F96C0}|SolitarioMahjong\\SolitarioMahjong.csproj|solutionrelative:solitariomahjong\\partita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EFCBD1-D805-4177-85DE-74FF6F66F379}|WpfSolitarioMahjong\\WpfSolitarioMahjong.csproj|c:\\users\\giulia.montalti\\downloads\\solitario-mahjong\\solitario-mahjong\\solitariomahjong\\solitariomahjong\\wpfsolitariomahjong\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EFCBD1-D805-4177-85DE-74FF6F66F379}|WpfSolitarioMahjong\\WpfSolitarioMahjong.csproj|solutionrelative:wpfsolitariomahjong\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EFCBD1-D805-4177-85DE-74FF6F66F379}|WpfSolitarioMahjong\\WpfSolitarioMahjong.csproj|c:\\users\\giulia.montalti\\downloads\\solitario-mahjong\\solitario-mahjong\\solitariomahjong\\solitariomahjong\\wpfsolitariomahjong\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EFCBD1-D805-4177-85DE-74FF6F66F379}|WpfSolitarioMahjong\\WpfSolitarioMahjong.csproj|solutionrelative:wpfsolitariomahjong\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457A3CF5-94C9-4E3E-AE40-C590644099DB}|TestSolitarioMahjong\\TestSolitarioMahjong.csproj|c:\\users\\giulia.montalti\\downloads\\solitario-mahjong\\solitario-mahjong\\solitariomahjong\\solitariomahjong\\testsolitariomahjong\\testcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457A3CF5-94C9-4E3E-AE40-C590644099DB}|TestSolitarioMahjong\\TestSolitarioMahjong.csproj|solutionrelative:testsolitariomahjong\\testcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457A3CF5-94C9-4E3E-AE40-C590644099DB}|TestSolitarioMahjong\\TestSolitarioMahjong.csproj|c:\\users\\giulia.montalti\\downloads\\solitario-mahjong\\solitario-mahjong\\solitariomahjong\\solitariomahjong\\testsolitariomahjong\\testmazzetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457A3CF5-94C9-4E3E-AE40-C590644099DB}|TestSolitarioMahjong\\TestSolitarioMahjong.csproj|solutionrelative:testsolitariomahjong\\testmazzetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA224DC-17BF-4815-A192-3DE2719F96C0}|SolitarioMahjong\\SolitarioMahjong.csproj|C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\solitariomahjong\\mazzetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA224DC-17BF-4815-A192-3DE2719F96C0}|SolitarioMahjong\\SolitarioMahjong.csproj|solutionrelative:solitariomahjong\\mazzetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA224DC-17BF-4815-A192-3DE2719F96C0}|SolitarioMahjong\\SolitarioMahjong.csproj|C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\solitariomahjong\\mazzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA224DC-17BF-4815-A192-3DE2719F96C0}|SolitarioMahjong\\SolitarioMahjong.csproj|solutionrelative:solitariomahjong\\mazzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA224DC-17BF-4815-A192-3DE2719F96C0}|SolitarioMahjong\\SolitarioMahjong.csproj|C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\solitariomahjong\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA224DC-17BF-4815-A192-3DE2719F96C0}|SolitarioMahjong\\SolitarioMahjong.csproj|solutionrelative:solitariomahjong\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA224DC-17BF-4815-A192-3DE2719F96C0}|SolitarioMahjong\\SolitarioMahjong.csproj|C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\solitariomahjong\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA224DC-17BF-4815-A192-3DE2719F96C0}|SolitarioMahjong\\SolitarioMahjong.csproj|solutionrelative:solitariomahjong\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\WpfSolitarioMahjong\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSolitarioMahjong\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\WpfSolitarioMahjong\\Window1.xaml.cs",
+              "RelativeToolTip": "WpfSolitarioMahjong\\Window1.xaml.cs",
+              "ViewState": "AQIAALsBAAAAAAAAAAAcwNMBAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:03:54.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\WpfSolitarioMahjong\\Window1.xaml",
+              "RelativeDocumentMoniker": "WpfSolitarioMahjong\\Window1.xaml",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\WpfSolitarioMahjong\\Window1.xaml",
+              "RelativeToolTip": "WpfSolitarioMahjong\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T09:03:54.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\WpfSolitarioMahjong\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSolitarioMahjong\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\WpfSolitarioMahjong\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfSolitarioMahjong\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAFgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:03:54.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\WpfSolitarioMahjong\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfSolitarioMahjong\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\WpfSolitarioMahjong\\MainWindow.xaml",
+              "RelativeToolTip": "WpfSolitarioMahjong\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T09:03:54.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mazzetto.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\SolitarioMahjong\\Mazzetto.cs",
+              "RelativeDocumentMoniker": "SolitarioMahjong\\Mazzetto.cs",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\SolitarioMahjong\\Mazzetto.cs",
+              "RelativeToolTip": "SolitarioMahjong\\Mazzetto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:03:54.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mazzo.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\SolitarioMahjong\\Mazzo.cs",
+              "RelativeDocumentMoniker": "SolitarioMahjong\\Mazzo.cs",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\SolitarioMahjong\\Mazzo.cs",
+              "RelativeToolTip": "SolitarioMahjong\\Mazzo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwFIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:03:54.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\SolitarioMahjong\\Carta.cs",
+              "RelativeDocumentMoniker": "SolitarioMahjong\\Carta.cs",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\SolitarioMahjong\\Carta.cs",
+              "RelativeToolTip": "SolitarioMahjong\\Carta.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:03:54.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Giocatore.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\SolitarioMahjong\\Giocatore.cs",
+              "RelativeDocumentMoniker": "SolitarioMahjong\\Giocatore.cs",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\SolitarioMahjong\\Giocatore.cs",
+              "RelativeToolTip": "SolitarioMahjong\\Giocatore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwBEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:03:54.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Partita.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\SolitarioMahjong\\Partita.cs",
+              "RelativeDocumentMoniker": "SolitarioMahjong\\Partita.cs",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\SolitarioMahjong\\Partita.cs",
+              "RelativeToolTip": "SolitarioMahjong\\Partita.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAArwKQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:03:55.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestMazzetto.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\TestSolitarioMahjong\\TestMazzetto.cs",
+              "RelativeDocumentMoniker": "TestSolitarioMahjong\\TestMazzetto.cs",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\TestSolitarioMahjong\\TestMazzetto.cs",
+              "RelativeToolTip": "TestSolitarioMahjong\\TestMazzetto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:03:55.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestCarta.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\TestSolitarioMahjong\\TestCarta.cs",
+              "RelativeDocumentMoniker": "TestSolitarioMahjong\\TestCarta.cs",
+              "ToolTip": "C:\\Users\\giulia.montalti\\Downloads\\SOLITARIO-MAHJONG\\SOLITARIO-MAHJONG\\SolitarioMahjong\\SolitarioMahjong\\TestSolitarioMahjong\\TestCarta.cs",
+              "RelativeToolTip": "TestSolitarioMahjong\\TestCarta.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T09:03:55.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

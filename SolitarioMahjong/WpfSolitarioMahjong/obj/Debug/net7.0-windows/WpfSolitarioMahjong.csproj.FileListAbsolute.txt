@@ -1,0 +1,608 @@
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.g.cs
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.baml
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\SAMUELE.SCORRANO\source\repos\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.baml
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.g.cs
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.baml
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\samuele.scorrano\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.g.cs
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.baml
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\andrea.franco\Downloads\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.baml
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_Content.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_Content.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.baml
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\RETRO.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\RETRO.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_Content.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.baml
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9A.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9B.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9C.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9D.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\RETRO.jpg
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_Content.g.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Page1.baml
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\giulia.montalti\Downloads\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_Content.g.cs
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10A.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10B.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10C.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10D.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1A.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1B.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1C.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1D.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2A.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2B.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2C.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2D.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3A.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3B.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3C.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3D.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4A.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4B.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4C.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4D.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5A.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5B.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5C.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5D.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6A.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6B.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6C.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6D.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7A.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7B.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7C.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7D.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8A.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8B.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8C.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8D.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9A.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9B.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9C.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9D.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\RETRO.jpg
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Window1.baml
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\giulia.montalti\Desktop\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10A.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10B.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10C.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10D.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1A.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1B.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1C.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1D.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2A.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2B.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2C.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2D.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3A.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3B.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3C.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3D.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4A.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4B.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4C.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4D.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5A.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5B.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5C.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5D.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6A.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6B.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6C.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6D.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7A.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7B.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7C.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7D.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8A.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8B.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8C.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8D.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9A.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9B.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9C.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9D.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\RETRO.jpg
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_Content.g.cs
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Window1.baml
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\giulia.montalti\Desktop\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10A.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10B.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10C.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10D.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1A.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1B.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1C.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1D.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2A.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2B.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2C.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2D.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3A.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3B.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3C.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3D.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4A.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4B.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4C.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4D.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5A.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5B.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5C.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5D.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6A.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6B.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6C.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6D.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7A.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7B.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7C.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7D.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8A.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8B.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8C.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8D.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9A.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9B.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9C.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9D.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\RETRO.jpg
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_Content.g.cs
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Window1.baml
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CopyComplete
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\Utente\Downloads\Nuova cartella\Nuova cartella\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.exe
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10A.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10B.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10C.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\10D.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1A.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1B.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1C.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\1D.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2A.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2B.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2C.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\2D.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3A.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3B.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3C.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\3D.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4A.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4B.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4C.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\4D.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5A.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5B.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5C.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\5D.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6A.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6B.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6C.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\6D.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7A.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7B.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7C.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\7D.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8A.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8B.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8C.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\8D.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9A.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9B.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9C.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\9D.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\carte\RETRO.jpg
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.deps.json
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.runtimeconfig.json
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\bin\Debug\net7.0-windows\SolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.AssemblyReference.cache
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_Content.g.cs
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.cache
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong_MarkupCompile.lref
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\Window1.baml
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.g.resources
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfoInputs.cache
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.AssemblyInfo.cs
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.csproj.CoreCompileInputs.cache
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.sourcelink.json
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolit.6B2DD9D9.Up2Date
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\refint\WpfSolitarioMahjong.dll
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.pdb
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\WpfSolitarioMahjong.genruntimeconfig.cache
+C:\Users\giulia.montalti\Downloads\SOLITARIO-MAHJONG\SOLITARIO-MAHJONG\SolitarioMahjong\SolitarioMahjong\WpfSolitarioMahjong\obj\Debug\net7.0-windows\ref\WpfSolitarioMahjong.dll
